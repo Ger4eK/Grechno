@@ -1,0 +1,36 @@
+
+
+
+
+//*Fonts
+@import url(https://fonts.gstatic.com);
+@import url(https://fonts.googleapis.com);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap);
+
+
+[class*="__container"] {
+  max-width: 1230px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+html{
+  scroll-behavior: smooth;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  overflow-x: hidden;
+  body {
+    background: #ffffff;
+    color: #43302E;
+
+    .container-fluid{
+      max-width: 1340px;
+      margin: 0 auto;
+      padding: 0 10px;
+    }
+  }
+}
+
+
+
+

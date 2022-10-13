@@ -1,0 +1,9 @@
+[
+   {
+      "id": 0,
+      "image": "./images/products/prod-1.jpg",
+      "title": "Набір “ОСІНЬ”",
+      "items": ["Авоська", "Шопер"],
+      "price": 380
+   }
+]
